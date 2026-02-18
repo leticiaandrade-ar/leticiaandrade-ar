@@ -1,16 +1,31 @@
-## Hi there 👋
+# 💻 Olá! Seja bem-vindo(a) ao meu perfil!
 
-<!--
-**leticiaandrade-ar/leticiaandrade-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Letícia e pretendo me tornar **Engenheira de Software**, com foco em **desenvolvimento backend** e **boas práticas de programação**. Cursei ensino técnico em **informática** em escola profissionalizante. Busco constante aprendizado, construção de projetos que resolvem problemas reais e fazem a diferença de forma prática no cotidiano das pessoas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Estudos Atuais
+
+-  **Software**: No momento focando em **Java** e frameworks como **Spring**, pretendendo avançar em conhecimentos de **arquitetura de software** e **computação em nuvem**
+
+---
+
+## 🔧 Tecnologias e Ferramentas
+
+- **Linguagens**: Java, Python  
+- **Frameworks e Bibliotecas**: SpringBoot
+- **Ferramentas de Desenvolvimento**: IntelliJ IDEA, VS Code, Git, Docker  
+- **Outros conhecimentos**: Testes de software, APIs
+
+---
+
+## 📫 Contato
+
+- **E-mail**: *analeandraderodri@gmail.com*
+- **LinkedIn**: *https://www.linkedin.com/in/leticia-andrade-rodri/*
+
+---
+
+### 🗣 Idiomas
+- **Português**: Nativo/Fluente 
+- **Inglês**: Básico
